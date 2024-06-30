@@ -3,6 +3,7 @@ import { Hero, HeroButton } from "@/features/ui/hero";
 import { Atom, Languages, VenetianMask } from "lucide-react";
 import { personaStore } from "../persona-store";
 
+
 export const PersonaHero = () => {
   return (
     <Hero
